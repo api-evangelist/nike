@@ -1,17 +1,15 @@
 aid: nike
-url: 
-  https://raw.githubusercontent.com/api-evangelist/nike/refs/heads/main/apis.yml
+url: https://raw.githubusercontent.com/api-evangelist/nike/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis:
   - aid: nike:nike-api
     name: Nike Developer API
     tags:
-      - Retail
       - Athletic
       - E-Commerce
       - Products
-    image: 
-      https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+      - Retail
+    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
     baseURL: https://api.nike.com
     humanURL: https://developer.nike.com/
     properties:
