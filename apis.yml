@@ -1,5 +1,6 @@
 aid: nike
-url: https://raw.githubusercontent.com/api-evangelist/nike/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/nike/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis:
   - aid: nike:nike-api
@@ -9,7 +10,8 @@ apis:
       - Athletic
       - E-Commerce
       - Products
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: 
+      https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
     baseURL: https://api.nike.com
     humanURL: https://developer.nike.com/
     properties:
@@ -18,4 +20,10 @@ apis:
       - url: openapi/nike-nike-api-openapi.yml
         type: OpenAPI
     description: >-
-      Nike provides APIs for product catalog access, inventory, store locations, and e-commerce integration. The platform supports partners and developers building experiences around Nike products.
+      Nike provides APIs for product catalog access, inventory, store locations, and
+      e-commerce integration. The platform supports partners and developers building
+      experiences around Nike products.
+description: >-
+  Nike is the world's largest supplier of athletic shoes and apparel and a major manufacturer
+  of sports equipment, designing, developing, and marketing products under the Nike,
+  Jordan, and Converse brands.
