@@ -16,7 +16,7 @@ Nike is a Fortune 500 company that provides developer APIs and integration capab
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
@@ -33,7 +33,6 @@ Nike provides APIs for product catalog access, inventory, store locations, and e
 #### Properties
 
 - [Documentation](https://developer.nike.com/)
-- [OpenAPI](openapi/nike-nike-api-openapi.yml)
 
 ## Common Properties
 
