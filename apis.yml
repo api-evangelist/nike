@@ -1,6 +1,11 @@
 aid: nike
 url: https://raw.githubusercontent.com/api-evangelist/nike/refs/heads/main/apis.yml
 modified: '2026-04-28'
+common:
+  - type: GitHubOrganization
+    url: https://github.com/Nike-Inc
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/nike
 apis:
   - aid: nike:nike-api
     name: Nike Developer API
