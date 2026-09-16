@@ -26,44 +26,37 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/nike.png
 tags:
-  - Fortune 500
+- Fortune 500
 url: https://raw.githubusercontent.com/api-evangelist/nike/refs/heads/main/apis.yml
-modified: '2026-04-28'
+modified: '2026-09-16'
 common:
-  - type: GitHubOrganization
-    url: https://github.com/Nike-Inc
-  - type: LinkedIn
-    url: https://www.linkedin.com/company/nike
+- type: Website
+  url: https://nike.com
+- type: DomainSecurity
+  url: security/nike-domain-security.yml
+- url: https://about.nike.com/en/newsroom
+  type: Blog
 apis:
-  - aid: nike:nike-api
-    name: Nike Developer API
-    tags:
-      - Athletic
-      - E-Commerce
-      - Product
-      - Retail
-    tags_raw:
-      - Athletic
-      - E-Commerce
-      - Products
-      - Retail
-    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
-    baseURL: https://api.nike.com
-    humanURL: https://developer.nike.com/
-    properties:
-      - url: https://developer.nike.com/
-        type: Documentation
-    description: >-
-      Nike provides APIs for product catalog access, inventory, store locations, and
-      e-commerce integration. The platform supports partners and developers building
-      experiences around Nike products.
-description: >-
-  Nike is the world's largest supplier of athletic shoes and apparel and a major manufacturer
-  of sports equipment, designing, developing, and marketing products under the Nike,
-  Jordan, and Converse brands.
-
-common:
-  - type: DomainSecurity
-    url: security/nike-domain-security.yml
-  - url: https://about.nike.com/en/newsroom
-    type: Blog
+- aid: nike:nike-api
+  name: Nike Developer API
+  tags:
+  - Athletic
+  - E-Commerce
+  - Product
+  - Retail
+  tags_raw:
+  - Athletic
+  - E-Commerce
+  - Products
+  - Retail
+  image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+  baseURL: https://api.nike.com
+  humanURL: https://developer.nike.com/
+  properties:
+  - url: https://developer.nike.com/
+    type: Documentation
+  description: Nike provides APIs for product catalog access, inventory, store locations, and e-commerce
+    integration. The platform supports partners and developers building experiences around Nike products.
+description: Nike is the world's largest supplier of athletic shoes and apparel and a major manufacturer
+  of sports equipment, designing, developing, and marketing products under the Nike, Jordan, and Converse
+  brands.
