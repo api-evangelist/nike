@@ -1,7 +1,9 @@
 ---
 title: Nike uses AI for personalized retail, boosts digital sales
 url: https://www.linkedin.com/posts/adrian-pearson-jr-474089239_nike-ai-retailinnovation-activity-7380664867831283713-Hh9H
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nike" press release artificial intelligence'
 position: 3
 source: serpapi-google

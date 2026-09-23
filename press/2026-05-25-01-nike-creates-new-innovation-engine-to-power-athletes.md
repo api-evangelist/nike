@@ -1,7 +1,9 @@
 ---
 title: Nike Creates New Innovation Engine to Power Athletes ...
 url: https://about.nike.com/en/newsroom/releases/nike-new-innovation-engine-announcement
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nike" press release artificial intelligence'
 position: 1
 source: serpapi-google

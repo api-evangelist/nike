@@ -1,7 +1,9 @@
 ---
 title: Nike Debuts its First Neuroscience-Based Footwear to ...
 url: https://about.nike.com/en/newsroom/releases/nike-mind-001-mind-002-official-images
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nike" press release artificial intelligence'
 position: 4
 source: serpapi-google

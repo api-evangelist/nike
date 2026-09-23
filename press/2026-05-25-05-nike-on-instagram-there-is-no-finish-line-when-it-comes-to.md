@@ -1,7 +1,9 @@
 ---
 title: 'Nike on Instagram: "There is no finish line when it comes to ...'
 url: https://www.instagram.com/reel/DQJxDm9joWp/?hl=en
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nike" press release artificial intelligence'
 position: 5
 source: serpapi-google
