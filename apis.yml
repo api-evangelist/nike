@@ -27,6 +27,11 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/nike.png
 tags:
 - Fortune 500
+- Fashion
+- Apparel
+- Footwear
+- Sportswear
+- Sporting Goods
 url: https://raw.githubusercontent.com/api-evangelist/nike/refs/heads/main/apis.yml
 modified: '2026-09-16'
 common:
