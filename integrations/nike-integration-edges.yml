@@ -1,0 +1,67 @@
+edges:
+- partner_name: FIFA Quality Programme
+  partner: null
+  partner_match: register
+  type: register
+  channel: standard-directory
+  relationship: standard-participant
+  direction: partner-built
+  evidence: https://inside.fifa.com/innovation/standards/footballs
+  category: FIFA Quality Programme certification (football technology and equipment)
+  contract_reference:
+    register: 'FIFA Quality Programme resource hub (inside.fifa.com/innovation/standards: certified products + licensed
+      providers, the page''s own /api/resource-hub endpoints)'
+    standard: FIFA Quality Programme
+    spec_file: null
+    role: fifa-certified-provider
+    registered_name: Nike Inc.
+    register_country: USA
+    matched_domain: nike.com
+    matched_by: domain
+    licences:
+    - programme: Footballs
+      licence_type: Standard
+    signal_note: certified_products = one entry per FIFA product type (tested by an accredited institute against
+      a FIFA test manual), never per product or ball model; quality levels, test manuals and authorisation numbers
+      are context, never counted
+    detected_by: sweep-football-sports-data-fifa.py
+    detected: '2026-10-21'
+    certified_products:
+    - product: FIFA football
+      product_type: FIFA football
+      programme: Footballs
+      lapsed: false
+      certified_until: '2028-09-19'
+      quality_levels:
+      - FIFA Quality PRO
+      test_manuals:
+      - Version 1.2
+      test_institutes:
+      - EMPA - Eidgenössische Materialprüfung-
+      - Sports Labs Ltd.
+      authorisation_numbers:
+      - '1015848'
+      - '1015928'
+      - '1019167'
+  detected_by: sweep-football-sports-data-fifa.py
+  first_seen: '2026-10-21'
+generated: '2026-10-21'
+method: searched
+source:
+- https://inside.fifa.com/innovation/standards/epts
+- https://inside.fifa.com/innovation/standards/footballs
+- https://inside.fifa.com/innovation/standards/football-turf
+- https://inside.fifa.com/innovation/standards/video-assistant-referee
+- https://inside.fifa.com/innovation/standards/goal-line-technology
+- https://inside.fifa.com/innovation/standards/virtual-offside-lines
+- https://sportradar.com/partners/
+- https://imgarena.com/partners/
+checked:
+- https://imgarena.com/partners/
+- https://inside.fifa.com/innovation/standards/epts
+- https://inside.fifa.com/innovation/standards/football-turf
+- https://inside.fifa.com/innovation/standards/footballs
+- https://inside.fifa.com/innovation/standards/goal-line-technology
+- https://inside.fifa.com/innovation/standards/video-assistant-referee
+- https://inside.fifa.com/innovation/standards/virtual-offside-lines
+- https://sportradar.com/partners/
